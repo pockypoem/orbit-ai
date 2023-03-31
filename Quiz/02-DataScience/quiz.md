@@ -89,7 +89,6 @@
 * User1 memiliki similaritas dengan User3 sebesar 0,5
 * User2 memberi rating 4 terhadap product5
 * User3 memberi rating 3 terhadap product5
-<br>
 
 #### Berapa rating yang akan diberikan User1 terhadap product 5? (menggunakan weighted average dengan threshold 40%) ![Q13image](images/question13.png)
 
