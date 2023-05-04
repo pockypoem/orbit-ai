@@ -1,6 +1,6 @@
 ## Quiz Data Science
 
-#### Q1. Diketahui relu keju -> susu memiliki support 30% dan confidence 70%. Makna yang tepat adalah...
+#### Q1. Diketahui rule keju -> susu memiliki support 30% dan confidence 70%. Makna yang tepat adalah...
 
 - \[x] Konsumen yang membeli keju mempunyai kemungkinan 70% untuk membeli susu
 - \[ ] Terdapat 30% dari seluruh transaksi yang tidak memuat susu
