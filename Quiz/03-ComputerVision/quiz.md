@@ -14,7 +14,7 @@
 - \[ ] 760
 - \[x] 608
 
-#### Q3. Salah satu fungsi loss yang dapat digunakan apda Siamese neural network adalah...
+#### Q3. Salah satu fungsi loss yang dapat digunakan pada Siamese neural network adalah...
 
 - \[x] Triplet loss
 - \[ ] One shot Learning 
