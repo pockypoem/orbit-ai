@@ -56,7 +56,7 @@ Rating yang akan diberikan oleh User1 terhadap Product5 dengan teknik rata-rata 
 - \[ ] Nilai gradient descent bisa "menghilang" bila memilih bobot yang lebih besar dari 1 (> 1) 
 - \[x] Nilai gradient descent bisa "menghilang" bila memilih bobot yang lebih kecil dari 1 (< 1)
 
-#### Q7. Suatu nilai input x = 0.2, dikarenakan fungsi aktivasi Tanh, maka akan diperoleh nilai...<br>[!Q07image](images/question07.png)<br>
+#### Q7. Suatu nilai input x = 0.2, dikarenakan fungsi aktivasi Tanh, maka akan diperoleh nilai...<br>![Q07image](images/question07.png)<br>
 
 - \[x] 0.1973...
 - \[ ] 0.0021...
@@ -70,7 +70,7 @@ Rating yang akan diberikan oleh User1 terhadap Product5 dengan teknik rata-rata 
 - \[ ] math 
 - \[ ] scipy
 
-#### Q9. Ilustrasi berikut merupakan ilustrasi dari ensemble technique untuk teknik....<br>[!Q09image](images/question09.png)<br>
+#### Q9. Ilustrasi berikut merupakan ilustrasi dari ensemble technique untuk teknik....<br>![Q09image](images/question09.png)<br>
 
 - \[ ] Boosting
 - \[ ] Tracking
@@ -105,21 +105,21 @@ Rating yang akan diberikan oleh User1 terhadap Product5 dengan teknik rata-rata 
 - \[ ] Bisa menangani hubungan variable bebas dan variabel terikat yang nonlinier
 - \[ ] Memberikan hasil yang cukup baik dalam klasifikasi dan regresi
 
-#### Q14. Suatu dataset memuat 3 variabel x,y, dan z. Ketiga variabel tersebut menghasilkan matriks kovarians seperti berikut. Informasi yang diperoleh dari matriks yang salah adalah....<br>[!Q14image](images/question14.png)<br>
+#### Q14. Suatu dataset memuat 3 variabel x,y, dan z. Ketiga variabel tersebut menghasilkan matriks kovarians seperti berikut. Informasi yang diperoleh dari matriks yang salah adalah....<br>![Q14image](images/question14.png)<br>
 
 - \[x] Variansi dari varibel x adalah 0.532
 - \[ ] Variansi dari variabel z adalah 0.550
 - \[ ] Kovariansi variabel x dan y adalah 0.159
 - \[ ] Kovariansi variabel y dan z adalah 0.136
 
-#### Q15. Informasi yang tepat dari output program berikut adalah...<br>[!Q15image](images/question15.png)<br>
+#### Q15. Informasi yang tepat dari output program berikut adalah...<br>![Q15image](images/question15.png)<br>
 
 - \[x] Model AR(2) merupakan model yang terbaik 
 - \[ ] Model AR(1) dengan 1 kali differencing lebih baik daripada model MA(1)
 - \[ ] Model ARMA(2,1) merupakan model yang terbaik
 - \[ ] Model ARMA(1,1) tidak lebih baik daripada model ARIMA(1,0,0)
 
-#### Q16. Tabel berikut menunjukkan nilai aktual dan hasil prediksi dari empat model time series. Menggunakan RMSE, pernyataan berikut yang tepat adalah....<br>[!Q16image](images/question16.png)<br>
+#### Q16. Tabel berikut menunjukkan nilai aktual dan hasil prediksi dari empat model time series. Menggunakan RMSE, pernyataan berikut yang tepat adalah....<br>![Q16image](images/question16.png)<br>
 
 - \[ ] RMSE hasil prediksi model2 terhadap data aktual bernilai 0.3947...
 - \[ ] Hasil prediksi model1 lebih baik daripada hasil prediksi model2
@@ -161,7 +161,7 @@ Rating yang akan diberikan oleh User1 terhadap Product5 dengan teknik rata-rata 
 - \[ ] 3x75
 - \[ ] 3x50
 
-#### Q22. Berikut pernyataan yang salah mengenai keputusan dalam membeli mobil berdasar gambar berikut adalah....<br>[!Q22image](images/question22.png)<br> 
+#### Q22. Berikut pernyataan yang salah mengenai keputusan dalam membeli mobil berdasar gambar berikut adalah....<br>![Q22image](images/question22.png)<br> 
 
 - \[ ] Membeli mobil jika warna mobil biru dan merupakan model keluaran diatas tahun 2015 
 - \[ ] Tidak membeli mobil jika warna mobil bukan biru dan bukan merah
