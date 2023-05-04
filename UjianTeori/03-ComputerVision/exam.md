@@ -1,6 +1,6 @@
 ## Ujian Teori Computer Vision
 
-#### Q1. Equation dibawah merupakan loss function yang digunakan pada Siamese Neural Network. Formula d(a,p) adalah?<br>[!Q01image](images/question01.png)<br>
+#### Q1. Equation dibawah merupakan loss function yang digunakan pada Siamese Neural Network. Formula d(a,p) adalah?<br>![Q01image](images/question01.png)<br>
 
 - \[x] Jarak antara citra anchor dan positif
 - \[ ] Jarak antara citra anchor dan negatif
@@ -34,7 +34,7 @@
 - \[x] Sharpening
 - \[x] Blurring
 
-#### Q6. Berapakah IoU antara dua kotak ini? Kotak kiri atas berukuran 2x2 dan kotak kanan bawah berukuran 2x3. Daerah overlapping adalah 1x1?<br>[!Q06image](images/question06.png)<br>
+#### Q6. Berapakah IoU antara dua kotak ini? Kotak kiri atas berukuran 2x2 dan kotak kanan bawah berukuran 2x3. Daerah overlapping adalah 1x1?<br>![Q06image](images/question06.png)<br>
 
 - \[x] 1/9
 - \[ ] 1/6
@@ -61,7 +61,7 @@
 - \[ ] Model computer vision yang cacat
 - \[ ] Data pelatihan tidak memiliki cukup gambar kucing
 
-#### Q10. Autoencoder terdiri dari tiga komponen yaitu encoder, decoder, dan code. Berdasarkan gambar dibawah, apa tugas utama dari code?<br>[!Q10image](images/question10.png)<br>
+#### Q10. Autoencoder terdiri dari tiga komponen yaitu encoder, decoder, dan code. Berdasarkan gambar dibawah, apa tugas utama dari code?<br>![Q10image](images/question10.png)<br>
 
 - \[ ] Mempelajari cara mengompresi input asli menjadi encoding kecil
 - \[ ] Mempelajari cara memulihkan data asli dari encoding
@@ -142,7 +142,7 @@
 - \[x] Waktu komputasi yang lebih cepat (mendekati real time) ketimbang Faster R-CNN  
 - \[ ] Lebih sedikit kesalahan lokalisasi ketimbang Faster R-CNN
 
-#### Q22. Gambar dibwah merupakan jenis pooling dari?<br>[!Q22image](images/question22.png)<br>
+#### Q22. Gambar dibwah merupakan jenis pooling dari?<br>![Q22image](images/question22.png)<br>
 
 - \[x] Max Pooling 
 - \[ ] Avg Pooling
